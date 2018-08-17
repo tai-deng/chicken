@@ -1,0 +1,6 @@
+message QuestionsMeta {
+	required	int32		id				= 1;
+	required	int32    	difficulty	    = 2;
+	required	string 		question		= 3;
+	required	bool     	answer		    = 4;
+}

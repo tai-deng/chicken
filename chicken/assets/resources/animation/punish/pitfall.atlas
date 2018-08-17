@@ -1,0 +1,97 @@
+
+pitfall.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+坑/陷阱
+  rotate: false
+  xy: 2, 358
+  size: 344, 664
+  orig: 344, 664
+  offset: 0, 0
+  index: -1
+滚石/1
+  rotate: false
+  xy: 348, 582
+  size: 343, 440
+  orig: 343, 440
+  offset: 0, 0
+  index: -1
+滚石/2
+  rotate: true
+  xy: 2, 10
+  size: 346, 433
+  orig: 346, 433
+  offset: 0, 0
+  index: -1
+滚石/3
+  rotate: false
+  xy: 437, 146
+  size: 344, 434
+  orig: 344, 434
+  offset: 0, 0
+  index: -1
+熊猫/右脚
+  rotate: false
+  xy: 872, 957
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+熊猫/头
+  rotate: false
+  xy: 693, 837
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+熊猫/左脚
+  rotate: false
+  xy: 667, 79
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+熊猫/影子
+  rotate: true
+  xy: 348, 449
+  size: 131, 74
+  orig: 131, 74
+  offset: 0, 0
+  index: -1
+熊猫/身子
+  rotate: false
+  xy: 693, 892
+  size: 177, 130
+  orig: 177, 130
+  offset: 0, 0
+  index: -1
+羊驼/右脚
+  rotate: false
+  xy: 348, 378
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+羊驼/头
+  rotate: false
+  xy: 437, 2
+  size: 109, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+羊驼/左脚
+  rotate: true
+  xy: 548, 7
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+羊驼/身子
+  rotate: false
+  xy: 548, 36
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1

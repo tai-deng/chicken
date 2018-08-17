@@ -1,0 +1,8 @@
+
+import "QuestionsMeta.proto";
+
+
+message GameMeta {
+	required	int64				metaVer				= 1;
+	repeated	QuestionsMeta		questionsMeta		= 3;
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4cd69ddc-9e5e-4978-92e2-100a65448b15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "topicBar": {
+      "ver": "1.0.3",
+      "uuid": "b34b733e-5d39-4c5b-a21b-4b7927ffc786",
+      "rawTextureUuid": "4cd69ddc-9e5e-4978-92e2-100a65448b15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 663,
+      "height": 274,
+      "rawWidth": 664,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

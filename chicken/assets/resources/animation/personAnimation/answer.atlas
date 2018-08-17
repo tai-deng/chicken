@@ -1,0 +1,489 @@
+
+answer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/右手
+  rotate: false
+  xy: 151, 78
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+1/右脚
+  rotate: true
+  xy: 151, 59
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+1/头
+  rotate: false
+  xy: 2, 398
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+1/左手
+  rotate: false
+  xy: 134, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+1/左脚
+  rotate: true
+  xy: 149, 2
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+1/眼睛
+  rotate: false
+  xy: 241, 311
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+1/身子
+  rotate: false
+  xy: 131, 264
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+10/右手
+  rotate: false
+  xy: 176, 262
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+10/右耳
+  rotate: false
+  xy: 69, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+10/头加身
+  rotate: true
+  xy: 224, 445
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+10/左手
+  rotate: true
+  xy: 338, 392
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+10/左耳
+  rotate: true
+  xy: 418, 386
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+10/左腿
+  rotate: true
+  xy: 425, 326
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+10/眼睛
+  rotate: false
+  xy: 338, 375
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+2/右手
+  rotate: false
+  xy: 241, 267
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+2/右脚
+  rotate: true
+  xy: 378, 387
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+2/头
+  rotate: false
+  xy: 339, 425
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+2/左手
+  rotate: false
+  xy: 209, 265
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+2/左脚
+  rotate: false
+  xy: 378, 322
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+2/眼睛
+  rotate: true
+  xy: 416, 355
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+2/身子
+  rotate: true
+  xy: 2, 30
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+3/右手
+  rotate: false
+  xy: 2, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+3/右脚
+  rotate: false
+  xy: 121, 190
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+3/头
+  rotate: true
+  xy: 433, 373
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+3/左手
+  rotate: false
+  xy: 37, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+3/左脚
+  rotate: true
+  xy: 429, 349
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+3/眼睛
+  rotate: true
+  xy: 121, 223
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+3/身子
+  rotate: false
+  xy: 148, 303
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+4/右脚
+  rotate: false
+  xy: 490, 342
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+4/左脚
+  rotate: false
+  xy: 425, 337
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+4/眼睛
+  rotate: false
+  xy: 289, 378
+  size: 47, 12
+  orig: 47, 12
+  offset: 0, 0
+  index: -1
+4/身子加手
+  rotate: false
+  xy: 2, 261
+  size: 84, 135
+  orig: 84, 135
+  offset: 0, 0
+  index: -1
+5/右手
+  rotate: false
+  xy: 133, 122
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+5/右脚
+  rotate: false
+  xy: 134, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+5/头
+  rotate: true
+  xy: 88, 312
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+5/左手
+  rotate: false
+  xy: 120, 398
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+5/左脚
+  rotate: true
+  xy: 490, 355
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+5/眼睛
+  rotate: true
+  xy: 372, 346
+  size: 27, 4
+  orig: 27, 4
+  offset: 0, 0
+  index: -1
+5/身子
+  rotate: true
+  xy: 200, 313
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+6/右手
+  rotate: false
+  xy: 287, 348
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+6/右脚
+  rotate: true
+  xy: 287, 319
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+6/头
+  rotate: true
+  xy: 52, 174
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+6/尾巴
+  rotate: false
+  xy: 292, 423
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+6/左手
+  rotate: false
+  xy: 329, 349
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+6/左脚
+  rotate: false
+  xy: 300, 278
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+6/眼睛
+  rotate: false
+  xy: 224, 428
+  size: 66, 15
+  orig: 66, 15
+  offset: 0, 0
+  index: -1
+6/身子
+  rotate: false
+  xy: 241, 333
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+7/右手
+  rotate: false
+  xy: 121, 176
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+7/右脚
+  rotate: false
+  xy: 460, 352
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+7/头
+  rotate: true
+  xy: 63, 38
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+7/左手
+  rotate: false
+  xy: 300, 264
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+7/左脚
+  rotate: true
+  xy: 133, 147
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+7/眼睛
+  rotate: false
+  xy: 69, 18
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+7/身子
+  rotate: true
+  xy: 200, 359
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+8/右手
+  rotate: false
+  xy: 138, 97
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+8/右脚
+  rotate: true
+  xy: 100, 3
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+8/头
+  rotate: false
+  xy: 120, 422
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+8/左脚
+  rotate: false
+  xy: 138, 38
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+8/智杖
+  rotate: false
+  xy: 2, 118
+  size: 48, 141
+  orig: 50, 141
+  offset: 0, 0
+  index: -1
+8/身子
+  rotate: false
+  xy: 289, 392
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+9/右手
+  rotate: true
+  xy: 52, 119
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+9/右脚
+  rotate: false
+  xy: 412, 329
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+9/头
+  rotate: true
+  xy: 433, 441
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+9/左手
+  rotate: false
+  xy: 148, 341
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+9/左脚
+  rotate: false
+  xy: 138, 67
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+9/斗篷
+  rotate: true
+  xy: 88, 261
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+9/眼睛
+  rotate: true
+  xy: 276, 267
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+9/身子
+  rotate: false
+  xy: 237, 378
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+中了陷阱后右眼
+  rotate: false
+  xy: 378, 356
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
